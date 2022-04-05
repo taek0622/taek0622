@@ -1,4 +1,9 @@
+# 김민택 (meenu)
+### *"The dreamer always shines"*
 ### Hi there 👋
+![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taek0622&layout=compact&theme=apprentice)
 
 <!--
 **taek0622/taek0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
