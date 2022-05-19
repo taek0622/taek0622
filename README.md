@@ -1,4 +1,5 @@
-# 김민택 (meenu)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=김민택%20meenu&fontSize=90)
+
 ### *"The dreamer always shines"*
 ### Hi there 👋
 ## My Status
@@ -39,6 +40,8 @@
 <img 
      src="http://img.shields.io/badge/-SwiftUI-1E88E5?style=flat&logo=Swift&logoColor=black"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+     
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaek0622&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **taek0622/taek0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
