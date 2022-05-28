@@ -3,7 +3,7 @@
 ### *"The dreamer always shines"*
 ### Hi there 👋
 ## My Status
-<!-- ![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark) -->
+![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark)
 ### Language & Tools
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taek0622&layout=compact&theme=apprentice) -->
 
