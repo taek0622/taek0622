@@ -3,9 +3,9 @@
 ### *"The dreamer always shines"*
 ### Hi there 👋
 ## My Status
-<!-- ![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark) -->
+![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark)
 ### Language & Tools
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taek0622&layout=compact&theme=apprentice) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taek0622&layout=compact&theme=apprentice)
 
 <!-- <code><a href="https://www.python.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a></code> -->
 <!-- <code><a href="https://www.djangoproject.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></a></code> -->
