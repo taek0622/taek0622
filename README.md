@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=김민택%20meenu&fontSize=90)
 
 ### *"The dreamer always shines"*
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 ## My Status
 |![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taek0622&layout=compact&theme=apprentice)|
 |:-:|:-:|
