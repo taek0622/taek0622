@@ -33,7 +33,7 @@
 <!-- <code><a href="https://developer.apple.com/kr/swift/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png"></a></code> -->
 <!-- <code><a href="https://developer.apple.com/kr/xcode/swiftui/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/swiftui/swiftui.png"></a></code> -->
 <div>
-     <a href="https://www.apple.com/kr/ios">
+     <a href="https://www.apple.com/kr/ios" target="_blank">
           <img
                src="http://img.shields.io/badge/-iOS-000000?style=flat&logo=iOS&logoColor=white"
                style="height : auto; margin-left : 10px; margin-right : 10px;"/>
