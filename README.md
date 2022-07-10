@@ -32,17 +32,23 @@
 <!-- <code><a href="https://www.apple.com/kr/ios/ios-15/?&mtid=209254jz40384&aosid=p238&mnid=syhAQKB4F-dc_mtid_209254jz40384_pcrid_554814771341_pgrid_128369994841_&cid=wwa-kr-kwgo-iphone-Brand-iOS-iOS-"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png"></a></code> -->
 <!-- <code><a href="https://developer.apple.com/kr/swift/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png"></a></code> -->
 <!-- <code><a href="https://developer.apple.com/kr/xcode/swiftui/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/swiftui/swiftui.png"></a></code> -->
-<a href="https://www.apple.com/kr/ios">
-     <img
-     src="http://img.shields.io/badge/-iOS-000000?style=flat&logo=iOS&logoColor=white"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<img
-     src="http://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img 
-     src="http://img.shields.io/badge/-SwiftUI-1E88E5?style=flat&logo=Swift&logoColor=black"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<div>
+     <a href="https://www.apple.com/kr/ios">
+          <img
+               src="http://img.shields.io/badge/-iOS-000000?style=flat&logo=iOS&logoColor=white"
+               style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+     </a>
+     <a href="https://developer.apple.com/kr/swift/">
+          <img
+               src="http://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"
+               style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+     </a>
+     <a href="https://developer.apple.com/kr/xcode/swiftui/">
+          <img 
+               src="http://img.shields.io/badge/-SwiftUI-1E88E5?style=flat&logo=Swift&logoColor=black"
+               style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+     </a>
+</div>
      
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaek0622&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
