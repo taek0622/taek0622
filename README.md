@@ -6,7 +6,7 @@
 |![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taek0622&layout=compact&theme=apprentice)|
 |:-:|:-:|
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=taek0622)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=taek0622&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ### Language & Tools
 
