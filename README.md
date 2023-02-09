@@ -8,6 +8,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=taek0622&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
+<div align="center">
+     <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/taek0622" width="60%"></a>
+     <a href=""><img src="https://server.dooboo.io/github-trophies/taek0622" width="60%"></a>
+</div>
+
 ### Language & Tools
 
 <!-- <code><a href="https://www.python.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a></code> -->
