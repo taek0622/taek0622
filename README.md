@@ -6,14 +6,12 @@
 |![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taek0622&layout=compact&theme=apprentice&custom_title=My&nbsp;Language&nbsp;⌨️)](https://github.com/anuraghazra/github-readme-stats)|
 |:-:|:-:|
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=taek0622&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
 <div align="center">
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taek0622&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak"></a>
      <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/taek0622" width="60%"></a>
      <a href=""><img src="https://server.dooboo.io/github-trophies/taek0622" width="60%"></a>
+     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taek0622" alt="trophy"></a>
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=taek0622)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Language & Tools
 
