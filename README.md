@@ -5,6 +5,7 @@
 
 ## Education
 2022.03 ~ 2022.12 [Apple Developer Academy @ POSTECH](https://github.com/DeveloperAcademy-POSTECH) 1기 Tech Junior Learner
+2023.01 ~ 2023.03.05 Allen School 17기 수료
 
 ## My Status
 |![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taek0622&layout=compact&theme=apprentice&custom_title=My&nbsp;Language&nbsp;⌨️)](https://github.com/anuraghazra/github-readme-stats)|
