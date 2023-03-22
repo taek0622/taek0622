@@ -14,8 +14,8 @@
 
 <div align="center">
      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taek0622&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak"></a>
-     <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/taek0622" alt="taek0622 GitHub Stats" width="60%"></a>
-     <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-trophies/taek0622" alt="taek0622 GitHub Trophies" width="60%"></a>
+     <a href="https://stats.hyochan.dev/ko"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=taek0622" alt="taek0622 GitHub Stats" width="60%"></a>
+     <a href="https://stats.hyochan.dev/ko"><img src="https://stats.hyochan.dev/api/github-trophies?login=taek0622" alt="taek0622 GitHub Trophies" width="60%"></a>
      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taek0622" alt="trophy"></a>
      <a href="https://solved.ac/taek0622"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taek0622" alt="Solved.ac 프로필"></a>
 </div>
