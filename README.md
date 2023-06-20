@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=김민택%20meenu&fontSize=90)
 
+<!-- 정리 예정 -->
+
 ### *"The dreamer always shines"*
 <!-- ### Hi there 👋 -->
 
